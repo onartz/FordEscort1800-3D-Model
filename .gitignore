@@ -1,7 +1,7 @@
 # ignore .jpg
-*.jpg
+# *.jpg
 # ignore auto saved files *.blend*
 # *.blend
 # ignore images directory
-**/images
+#**/images
 
